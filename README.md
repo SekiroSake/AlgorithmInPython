@@ -1,3 +1,5 @@
 # Algorithm In Python
-Until next time
-Happy coding
+Until next time,
+```
+Happy coding!
+```
